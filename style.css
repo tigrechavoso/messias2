@@ -17,8 +17,11 @@ h1 {
 	background: rgb(252, 249, 249);
 }
 
-p {
+p{
 	text-align: center;
 }
 
+li {
+	font-size: 25px;
+}
 
